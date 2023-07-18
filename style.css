@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+.container{
+max-width: 400px;
+margin: 50px auto;
+}
+
+.container h1{
+text-align: center;
+}
+
+.container input{
+display: block;
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid green;
+  }
